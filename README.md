@@ -87,11 +87,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots (optional)
-
-*Add screenshots of your UI here*
-
----
 
 ## 🔥 Future Improvements
 
