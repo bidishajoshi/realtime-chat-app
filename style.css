@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ffd1dc 0%, #ffb3d9 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,10 +37,10 @@ body {
 }
 
 .chat-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff69b4 0%, #ff1493 100%);
   color: white;
   padding: 20px;
-  border-bottom: 3px solid #667eea;
+  border-bottom: 3px solid #ff69b4;
 }
 
 .chat-header h1 {
@@ -82,14 +82,14 @@ body {
   padding: 10px 12px;
   background: white;
   border-radius: 8px;
-  border-left: 3px solid #667eea;
+  border-left: 3px solid #ff69b4;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   font-size: 14px;
   line-height: 1.4;
 }
 
 .chat-message strong {
-  color: #667eea;
+  color: #ff1493;
   margin-right: 5px;
 }
 
@@ -112,14 +112,14 @@ body {
 
 #chat-form input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: #ff69b4;
+  box-shadow: 0 0 0 3px rgba(255, 105, 180, 0.2);
 }
 
 #chat-form button {
   padding: 12px 24px;
   border: none;
-  background-color: #667eea;
+  background-color: #ff69b4;
   color: white;
   border-radius: 8px;
   cursor: pointer;
@@ -128,9 +128,9 @@ body {
 }
 
 #chat-form button:hover {
-  background-color: #5568d3;
+  background-color: #ff1493;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 4px 12px rgba(255, 20, 147, 0.4);
 }
 
 #chat-form button:active {
