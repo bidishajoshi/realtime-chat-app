@@ -34,7 +34,7 @@ Supports live communication, multiple users, and dynamic updates without page re
 
 * SQLite / PostgreSQL / MongoDB
 
----
+
 
 ## 📁 Project Structure
 
